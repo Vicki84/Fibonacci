@@ -1,7 +1,7 @@
-# Lommeregner
+# Fibonacci
 Repetitionsprojekt
 
-Jeg vil i dette projekt lave en lommeregner som man normalt kender den. Jeg vil dog lave den interface mere interessant, f.eks. med forskellige farver når man trykker på de forskellige numrer eller bare et pænere layout. Jeg tror derfor jeg vil have så meget af det programmering som muligt med i opgaven. 
+Jeg har lavet et program der udskriver fibonacci tal, som er en talrække hvor fra og med det tredje tal fremkommer som summen af de to foregående tal. Jeg har yderligere fudnet primtal i den her talrække og udskrevet dem med en rød font. 
 
 - Datatyper <br>
 - Variable <br>
