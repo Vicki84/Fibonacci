@@ -23,7 +23,7 @@ function udregnMinus() {
 }
 
 function udregnGange() {
-  resultat.innerHTML = parseFloat(resultat.innerHTML)  parseFloat(input.value);
+  resultat.innerHTML = parseFloat(resultat.innerHTML) * parseFloat(input.value);
   input.value = 0;
 }
 
